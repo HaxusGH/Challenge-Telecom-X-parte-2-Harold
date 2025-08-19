@@ -1,4 +1,4 @@
-# 📈 Transformación y Tratamiento de Datos – Predicción de Churn en Telecom X
+# 📈 Transformación y Tratamiento de Datos Telecom X parte 2 – Predicción de Churn con Random Forest
 
 Este proyecto tiene como finalidad **analizar, limpiar y transformar datos de clientes de Telecom X**, para posteriormente realizar un **análisis descriptivo** y construir un modelo predictivo de churn (cancelación de clientes).  
 El enfoque está en **identificar factores clave que generan deserción** y proponer acciones de retención basadas en los hallazgos.
